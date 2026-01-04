@@ -49,3 +49,4 @@ node_modules
 .snyk
 
 .vercel
+.env*.local
